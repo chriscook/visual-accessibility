@@ -45,6 +45,8 @@ An example of these in practice:
 
 There is no styling applied to the container by default, except for the background and text colour of the buttons which activate those particular styles.
 
+__IE7 note:__ `#vsac-controls` needs a width set in order to work correctly in Internet Explorer 7.
+
 ### Author and acknowledgements
 
 + Written by [Chris Cook](http://chris-cook.co.uk)
